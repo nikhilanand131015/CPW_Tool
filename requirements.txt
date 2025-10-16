@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+office365-rest-python-client
+xlwings
+openpyxl
+streamlit-option-menu>=0.3.2
+pytz>=2023.3
